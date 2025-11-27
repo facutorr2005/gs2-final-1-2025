@@ -1,0 +1,3 @@
+Como cliente registrado, quiero iniciar sesión con mi correo electrónico
+para acceder a mi historial de compras
+y realizar compras futuras
