@@ -1,0 +1,21 @@
+
+ Scrum es un framework que nos permite gestionar de manera agil los proyectos
+ de desarrollo de software, permitiendo un trabajo más eficiente y una mejor 
+ gestión de proyectos complejos.
+
+ Los tres actores:
+ 1. Product Owner
+ 2. Scrum Master
+ 3. Equipo
+
+ los artefactos:
+ 1.Product Backlog
+ 2.Sprint Backlog
+ 3.Incremento
+
+ Las ceremonias:
+ 1.Planificacion del Sprint
+ 2.daily scrum
+ 3.revision del Sprint
+ 4.retrospectiva del Sprint
+ 5.refinacion del producto Backlog
