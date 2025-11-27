@@ -1,0 +1,3 @@
+Los tipos de requisitos son:
+->Funcionales, como lo son una recuperacion de contraseña
+->No Funcionales, como puede ser la respuesta del software
